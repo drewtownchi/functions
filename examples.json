@@ -259,12 +259,6 @@
     "code": "https://github.com/auchau/crowdroar_netlify/blob/154a5e7a8f07669da6cdcf932eebdc123a3b38d8/src/lambda/async-chuck-norris.js"
   },
   {
-    "name": "Mailchimp signup flow",
-    "description": "Netlify functions + subscribe users to mailchimp",
-    "repo": "https://github.com/smkkstudios/pairity/",
-    "code": "https://github.com/smkkstudios/pairity/blob/b366ec13c54f4782e16f79c18d1795e10c574102/functions/signUp.js"
-  },
-  {
     "name": "Check weather forcast",
     "description": "Check the weather forcast with bugsnag for debugging",
     "code": "https://github.com/mikesprague/localweather-io/blob/f1ae3d72900cd514ac27c65ab6dec70aafdb9362/src/functions/weather.js"
